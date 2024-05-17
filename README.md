@@ -267,3 +267,13 @@ iface eth0 inet dhcp
 > 
 > - Durasi DHCP server meminjamkan alamat IP kepada Client yang melalui House Harkonen selama 5 menit sedangkan pada client yang melalui House Atreides selama 20 menit. Dengan waktu maksimal dialokasikan untuk peminjaman alamat IP selama 87 menit
 > - *house == switch
+
+
+## Testing
+**@ Dmirtri (Client)**
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/a26254fc-c19a-4231-a791-4e1e6ad480cb)
+
+
+**@ Paul (Client)**
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/cdfdee44-488d-40a9-bf8e-bd18e2bc91f4)
+
