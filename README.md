@@ -277,3 +277,12 @@ iface eth0 inet dhcp
 **@ Paul (Client)**
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/cdfdee44-488d-40a9-bf8e-bd18e2bc91f4)
 
+# [ 6 ]
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/00751a0b-ca22-4fb9-8be9-0b8b7586e6d4)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/195f646d-2c36-4478-94f1-955386b82085)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/b683245e-0483-4134-a058-a69fad85c23f)
+
+
+# [ 7 ]
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/297387fb-a9f4-4701-b26d-badb660ba77b)
+
