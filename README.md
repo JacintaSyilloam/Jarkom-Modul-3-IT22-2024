@@ -284,21 +284,39 @@ iface eth0 inet dhcp
 
 
 # [ 7 ]
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/297387fb-a9f4-4701-b26d-badb660ba77b)
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/2ef8a319-751b-4f8d-bee0-a375780bbc7f)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/8688a959-890a-40c1-81f0-982c42ef8de2)
 
+
+# [ 8 ]
 ### Round robin
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/e07bb52f-ef0f-4caf-a0e5-375213a3eb00)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/6293de56-758c-4766-9a30-5e9f9c73ace7)
 
 
 ### Least connection
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/adf58cf8-810b-46a7-89e4-992fcd8fbc61)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/3a53df96-7452-41f2-a8a4-94d94398901f)
 
 
 ### IP Hash
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/1c51ac4c-cf69-49e3-bfa6-5dc56d56a4ed)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/f66f2092-bf35-4aa8-91a4-0e71b5241942)
 
 
 ### Generic Hash
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/0272f325-8405-4f2f-932a-a555fb180da1)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/cb9dc010-6bcd-4afe-9c61-7377309efbae)
+
+
+### Comparison Graph
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/a3a49b03-d52e-43dc-a29e-4cddad4ccf66)
+
+
+# [ 9 ]
+### 3 Workers
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/d380dbf9-01d0-4811-9f01-0fb2fa8621b2)
+
+
+### 2 Workers
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/af8ca8e7-1c8f-428c-a904-0fe4c7db3bdf)
+
+
+### 1 Worker
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/2c463eb2-fc7a-41c5-a830-0d44f47e8359)
 
