@@ -320,3 +320,20 @@ iface eth0 inet dhcp
 ### 1 Worker
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/2c463eb2-fc7a-41c5-a830-0d44f47e8359)
 
+# [ 10 ]
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/991f94d8-be97-4195-b723-95bc238d3665)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/b2c1117a-52b6-49ad-8adb-f7d8d40871cc)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/982c1e27-c036-45fd-9d1f-54df89bcca84)
+
+
+# [ 11 ]
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/82570f29-bf2b-4efb-9a14-7bf86a1e045b)
+
+### 
+Configure fixed IP address
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/671246d7-8f30-4658-a62f-2c850ac47212)
+
+
+# [ 12 ] 
+
+
