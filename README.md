@@ -285,4 +285,20 @@ iface eth0 inet dhcp
 
 # [ 7 ]
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/297387fb-a9f4-4701-b26d-badb660ba77b)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/2ef8a319-751b-4f8d-bee0-a375780bbc7f)
+
+### Round robin
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/e07bb52f-ef0f-4caf-a0e5-375213a3eb00)
+
+
+### Least connection
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/adf58cf8-810b-46a7-89e4-992fcd8fbc61)
+
+
+### IP Hash
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/1c51ac4c-cf69-49e3-bfa6-5dc56d56a4ed)
+
+
+### Generic Hash
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/0272f325-8405-4f2f-932a-a555fb180da1)
 
