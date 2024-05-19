@@ -4,6 +4,7 @@
 |--|--|
 | Jacinta Syilloam | 5027221036 |
 
+
 # Topology
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/b3af69f4-4f62-410f-9457-7e0eb9373e13)
 
@@ -1276,3 +1277,10 @@ ab -l -n 100 -c 10 http://192.244.4.3/
 
 
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/5064778f-266c-44a5-9fcb-ff445470a9ea)
+
+
+
+## FIN
+
+![giphy](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/8ea3e8d1-e548-475d-a833-75ec3c3340c5)
+
