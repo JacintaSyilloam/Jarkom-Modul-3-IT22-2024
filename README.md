@@ -412,5 +412,10 @@ Get token
 ### Config 3
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/20963ed8-9a4a-4854-8761-ce1aec51993e)
 
+
+### Comparison Graph
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/45c7b711-8b2e-4075-9af1-d37840ac68d4)
+
+
 # [ 20 ] 
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/5064778f-266c-44a5-9fcb-ff445470a9ea)
