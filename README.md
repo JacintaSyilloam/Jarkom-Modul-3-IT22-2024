@@ -305,7 +305,7 @@ iface eth0 inet dhcp
 
 
 ### Comparison Graph
-![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/a3a49b03-d52e-43dc-a29e-4cddad4ccf66)
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/a8535ac3-f686-4686-9e9f-4d80a70eee9f)
 
 
 # [ 9 ]
@@ -319,6 +319,11 @@ iface eth0 inet dhcp
 
 ### 1 Worker
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/2c463eb2-fc7a-41c5-a830-0d44f47e8359)
+
+### Comparison Graph
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/baaa25f9-84be-4e21-a806-cf576a463e92)
+
+
 
 # [ 10 ]
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/991f94d8-be97-4195-b723-95bc238d3665)
@@ -385,3 +390,27 @@ Get token
 
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/06fb08f4-0de4-4b55-b7bf-aa70413a1989)
 
+
+# [ 18 ] 
+
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/5ecb39f5-39b9-4e98-91f3-4a1ca7ffd2af)
+
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/be27b5f5-9001-4a77-88b5-0a0c533897d5)
+
+
+
+# [ 19 ]
+
+### Config 1
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/18c73cfe-d6d5-416f-8478-49799cf0820a)
+
+
+### Config 2
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/1d9142f9-b682-4b61-be0d-f670137edf38)
+
+
+### Config 3
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/20963ed8-9a4a-4854-8761-ce1aec51993e)
+
+# [ 20 ] 
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/5064778f-266c-44a5-9fcb-ff445470a9ea)
