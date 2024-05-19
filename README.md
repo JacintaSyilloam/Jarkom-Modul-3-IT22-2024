@@ -329,11 +329,59 @@ iface eth0 inet dhcp
 # [ 11 ]
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/82570f29-bf2b-4efb-9a14-7bf86a1e045b)
 
+
+# [ 12 ] 
 ### 
 Configure fixed IP address
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/671246d7-8f30-4658-a62f-2c850ac47212)
 
 
-# [ 12 ] 
+# [ 13 ]
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/08638f4b-6837-4478-84cb-68add56d54e9)
 
+
+# [ 14 ] 
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/f13fd442-2d09-45cb-894d-ae170672b93f)
+
+# [ 15, 16 ]
+Check documentation/source code to create an appropriate body for the POST requests.
+
+
+register.json:
+```
+{
+  "username": "jac",
+  "password": "passjac"
+}
+```
+
+
+## @ Paul (Laravel Worker)
+## POST req to /auth/register:
+```
+ab -l -n 100 -c 10 -p register.json -T application/json http://localhost:8001/api/auth/register
+```
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/0e315c00-0522-4580-84f0-c6fec455f9c9)
+
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/69485d01-dcbb-484f-873f-94a5940c26e7)
+
+
+## POST req to /auth/login:
+```
+ab -l -n 100 -c 10 -p register.json -T application/json http://localhost:8001/api/auth/login
+```
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/4a3ebb0a-eafe-40f8-8285-3974879c6a3e)
+
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/86682648-9782-40bd-9746-fb02166f9c96)
+
+
+# [ 17 ]
+Get token 
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/5b6f2467-952e-4326-8ae9-d309f470c8ef)
+```
+ ab -l -n 100 -c 10 -H "Authorization: Bearer $(cat login_output.txt | jq -r '.token')" http://localhost:8001/api/me
+```
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/5f78f694-4cd8-4110-bda8-8ad45f5e3d0f)
+
+![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/06fb08f4-0de4-4b55-b7bf-aa70413a1989)
 
