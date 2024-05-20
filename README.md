@@ -768,12 +768,65 @@ lynx http://192.244.4.3/dune
 # [ 12 ] 
 > Selanjutnya LB ini hanya boleh diakses oleh client dengan IP [Prefix IP].1.37, [Prefix IP].1.67, [Prefix IP].2.203, dan [Prefix IP].2.207.
 
-### 
-To test out the configuration, first configure fixed IP address
+
+## @ Stilgar (Load Balancer)
+
+Configure to allow requests from the IP addresses that was specified in the question.
+
+```
+echo 'upstream roundrobin {
+    server 192.244.1.2;
+    server 192.244.1.3;
+    server 192.244.1.4;
+}
+
+server {
+    listen 80;
+    server_name _;
+
+    root /var/www/html;
+
+    index index.html index.htm index.nginx-debian.html;
+
+    location / {
+        proxy_pass http://roundrobin;
+        allow 192.244.1.37;
+        allow 192.244.1.67;
+        allow 192.244.2.203;
+        allow 192.244.2.207;
+        deny all;
+        auth_basic "Restricted Content";
+        auth_basic_user_file /etc/nginx/supersecret/htpasswd;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+
+}' > /etc/nginx/sites-available/lb_php
+```
+
+Restart nginx server.
+```
+service nginx restart
+```
+
+## @ Mohiam (DHCP Server)
+
+To test out the configuration, first configure fixed IP address at ```/etc/dhcp/dhcpd.conf```:
+
+```
+host Dmitri {
+    hardware ethernet e6:6a:41:e4:60:68;
+    fixed-address 192.244.1.37;
+}
+```
 
 
 ![image](https://github.com/JacintaSyilloam/Jarkom-Modul-3-IT22-2024/assets/121095246/671246d7-8f30-4658-a62f-2c850ac47212)
 
+
+## Testing from @ Dmitri (Client)
 
 Then try to access the website.
 
